@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+@import "tailwindcss";
+
+
+@utility container {
+	padding-inline: 50px;
+	margin-inline: auto;
+}
+
+@theme {
+	--color-primary: #7C7C7C;
+	--font-franc: 'Fraunces', serif;
+	--font-inter: 'Inter', serif;
+}
